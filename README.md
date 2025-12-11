@@ -27,12 +27,6 @@
 
 [Download](Choker/VittlerUniverseS4WesternChoker/Classic_High_Heel.package)
 
-- ### Vittler Universe S4 Virtus Sandal
-
-![Preview](Choker/VittlerUniverseS4VirtusSandal/preview.jpg)
-
-[Download](Choker/VittlerUniverseS4VirtusSandal/VittlerUniverseS4VirtusSandal.package)
-
 ## Dress
 
 - ### Alisila Dress
@@ -134,6 +128,12 @@
 ![Preview](Shoes/Classic_High_Heel/preview.jpg)
 
 [Download](Shoes/Classic_High_Heel/Classic_High_Heel.package)
+
+- ### Vittler Universe S4 Virtus Sandal
+
+![Preview](Shoes/VittlerUniverseS4VirtusSandal/preview.jpg)
+
+[Download](Shoes/VittlerUniverseS4VirtusSandal/VittlerUniverseS4VirtusSandal.package)
 
 ## Top
 
