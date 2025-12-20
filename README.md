@@ -29,6 +29,42 @@
 
 ## Dress
 
+- ### Jomsims Miss Satelle Outfit
+
+![Preview](Dress/JomsimsMissSatelleOutfit/preview.jpg)
+
+[Download](Dress/JomsimsMissSatelleOutfit/JomsimsMissSatelleOutfit.package)
+
+- ### Jomsims Athmya Dress
+
+![Preview](Dress/JomsimsAthmyaDress/preview.jpg)
+
+[Download](Dress/JomsimsAthmyaDress/JomsimsAthmyaDress.package)
+
+- ### Jomsims Ball Room Dancing Dress
+
+![Preview](Dress/JomsimsBallRoomDancingDress/preview.jpg)
+
+[Download](Dress/JomsimsBallRoomDancingDress/JomsimsBallRoomDancingDress.package)
+
+- ### JomSims Cristal
+
+![Preview](Dress/JomSimsCristal/preview.jpg)
+
+[Download](Dress/JomSimsCristal/JomSimsCristal.package)
+
+- ### Jomsims Zelmeia Dress
+
+![Preview](Dress/JomsimsZelmeiaDress/preview.jpg)
+
+[Download](Dress/JomsimsZelmeiaDress/JomsimsZelmeia Dress.package)
+
+- ### Jomsims Lediane Dress
+
+![Preview](Dress/JomsimsLedianeDress/preview.jpg)
+
+[Download](Dress/JomsimsLedianeDress/JomsimsLedianeDress.package)
+
 - ### Alisila Dress
 
 ![Preview](Dress/AlisilaDress/preview.jpg)
