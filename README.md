@@ -29,6 +29,30 @@
 
 ## Dress
 
+- ### Jomsims Kawairi
+
+![Preview](Dress/Jomsims_Kawairi/preview.png)
+
+[Download](Dress/Jomsims_Kawairi/Jomsims_Kawairi.package)
+
+- ### Jomsims Miss Nini Sweety Babydoll
+
+![Preview](Dress/Jomsims_miss_nini_sweety_babydoll/preview.png)
+
+[Download](Dress/Jomsims_miss_nini_sweety_babydoll/Jomsims_miss_nini_sweety_babydoll.package)
+
+- ### Jomsims Dinella
+
+![Preview](Dress/Jomsims_Dinella/preview.png)
+
+[Download](Dress/Jomsims_Dinella/Jomsims_Dinella.package)
+
+- ### Jomsims Simeana
+
+![Preview](Dress/Jomsims_Simeana/preview.png)
+
+[Download](Dress/Jomsims_Simeana/Jomsims_Simeana.package)
+
 - ### Jomsims Satless
 
 ![Preview](Dress/Jomsims_Satless/preview.png)
@@ -126,6 +150,14 @@
 ![Preview](Glasses/VittlerUniverseS4DonnaGlasses/preview.jpg)
 
 [Download](Glasses/VittlerUniverseS4DonnaGlasses/VittlerUniverseS4DonnaGlasses.package)
+
+## Hair
+
+- ### Broccoli-Hair
+
+![Preview](Hats/Broccoli-Hair/preview.png)
+
+[Download](Hats/Broccoli-Hair/Broccoli-Hair.package)
 
 ## Hats
 
