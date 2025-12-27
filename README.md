@@ -85,9 +85,9 @@
 
 - ### Jomsims Zelmeia Dress
 
-![Preview](Dress/JomsimsZelmeiaDress/preview.jpg)
+![Preview](Dress/JomsimsZelmeia%20Dress/preview.jpg)
 
-[Download](Dress/JomsimsZelmeiaDress/JomsimsZelmeia Dress.package)
+[Download](Dress/JomsimsZelmeia%20Dress/JomsimsZelmeia%20Dress.package)
 
 - ### Jomsims Lediane Dress
 
@@ -214,3 +214,4 @@
 ![Preview](Top/VittlerUniverseS4DontStartNowTop/preview.jpg)
 
 [Download](Top/VittlerUniverseS4DontStartNowTop/VittlerUniverseS4DontStartNowTop.package)
+
