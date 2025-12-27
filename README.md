@@ -29,6 +29,36 @@
 
 ## Dress
 
+- ### Jomsims Satless
+
+![Preview](Dress/Jomsims_Satless/preview.png)
+
+[Download](Dress/Jomsims_Satless/Jomsims_Satless.package)
+
+- ### Jomsims Walena
+
+![Preview](Dress/Jomsims_Walena/preview.png)
+
+[Download](Dress/Jomsims_Walena/Jomsims_Walena.package)
+
+- ### Jomsims Maqzia
+
+![Preview](Dress/Jomsims_Maqzia/preview.png)
+
+[Download](Dress/Jomsims_Maqzia/Jomsims_Maqzia.package)
+
+- ### Jomsims Sadora
+
+![Preview](Dress/Jomsims_Sadora/preview.png)
+
+[Download](Dress/Jomsims_Sadora/Jomsims_Sadora.package)
+
+- ### Jomsims Elenera Dress
+
+![Preview](Dress/JomsimsEleneraDress/preview.jpg)
+
+[Download](Dress/JomsimsEleneraDress/JomsimsEleneraDress.package)
+
 - ### Jomsims Miss Satelle Outfit
 
 ![Preview](Dress/JomsimsMissSatelleOutfit/preview.jpg)
@@ -55,9 +85,9 @@
 
 - ### Jomsims Zelmeia Dress
 
-![Preview](Dress/JomsimsZelmeia%20Dress/preview.jpg)
+![Preview](Dress/JomsimsZelmeiaDress/preview.jpg)
 
-[Download](Dress/JomsimsZelmeiaDress/JomsimsZelmeia%20Dress.package)
+[Download](Dress/JomsimsZelmeiaDress/JomsimsZelmeia Dress.package)
 
 - ### Jomsims Lediane Dress
 
@@ -184,5 +214,3 @@
 ![Preview](Top/VittlerUniverseS4DontStartNowTop/preview.jpg)
 
 [Download](Top/VittlerUniverseS4DontStartNowTop/VittlerUniverseS4DontStartNowTop.package)
-
-
